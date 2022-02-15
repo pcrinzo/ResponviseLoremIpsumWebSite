@@ -1,5 +1,35 @@
 # PaginaRaccoon
 
+UPTADE 10-11-2021:
+=============================================================================
+Connecting the form to a postgres database through a jsp file(NetBeans).
+## Running
+Run Angular server (`ng serve`)
+Run Payara server(NetBeans)
+
+UPDATE 02-11-2021:
+=============================================================================
+Improvements at navbar.
+Minor improvement in the first image button (text is now reponsive). 
+There arent no more underlines at links(navbar and cards) during mouse hover.
+Footer logo is now centered and responsive.
+CSS class was reviewed and all the unnecessaries classes was removed. 
+CSS Dictionary was created :  `pagina-raccoonV2\src\app\CSSDICT.txt`
+
+==============================================================================
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
+This project uses bootstrap.
+This project aims to reproduce a responsive website using CSS and HTML as part of a Raccoon seletion process.
+Desktop image:
+![](ImagemDesktop.png)
+
+Responsive mobile image:
+![](ImagemMobile.png)
+
+
+
+# PaginaRaccoon
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.2.2.
 
 ## Development server
