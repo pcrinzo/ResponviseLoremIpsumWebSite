@@ -23,8 +23,6 @@ This project aims to reproduce a responsive website using CSS and HTML as part o
 Desktop image:
 ![](ImagemDesktop.png)
 
-Responsive mobile image:
-![](ImagemMobile.png)
 
 
 
